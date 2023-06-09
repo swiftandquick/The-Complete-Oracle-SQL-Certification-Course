@@ -1,0 +1,2 @@
+/* Create a table called STORES.  The first column is STORE_ID, which takes number as argument and it cannot be null.  The second column is CITY, which contains a string with the maximum of 50 characters.  */
+CREATE TABLE STORES (STORE_ID NUMBER NOT NULL, CITY VARCHAR(50));
